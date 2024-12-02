@@ -81,4 +81,19 @@ Gregg
 IT Support Specialist
 
 
+![Identifying no network connectivity](https://github.com/GreggNicholas/Ticket-1001-The-Internet-is-Not-Working/blob/main/Screen%20Shot%202024-12-01%20at%2021.25.22%20PM.png?raw=true)
+
+![Identifying the DNS misconfiguration](https://github.com/GreggNicholas/Ticket-1001-The-Internet-is-Not-Working/blob/main/Screen%20Shot%202024-12-01%20at%2021.25.49%20PM.png?raw=true)
+
+![Running ipconfig to verify correct DNS and DHCP auto](https://github.com/GreggNicholas/Ticket-1001-The-Internet-is-Not-Working/blob/main/Screen%20Shot%202024-12-01%20at%2021.26.23%20PM.png?raw=true)
+
+![DNS Flush](https://github.com/GreggNicholas/Ticket-1001-The-Internet-is-Not-Working/blob/main/Screen%20Shot%202024-12-01%20at%2021.26.01%20PM.png?raw=true)
+
+
+
+
+
+
+
+
 
